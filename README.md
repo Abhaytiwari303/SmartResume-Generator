@@ -1,7 +1,7 @@
 📄 SmartResume Generator
 🚀 Project Overview
 
-SmartResume Generator is an AI-powered resume builder that creates customized resumes for different job opportunities. It uses Google's Gemini API to generate professional resumes based on user-provided details. The app is built with Streamlit for a user-friendly interface and FPDF for PDF generation.
+SmartResume Generator is an AI-powered resume builder that creates customized resumes for different job opportunities. It uses Google's Gemini API to generate professional resumes based on user-provided details. 
 
 🔹 Features
 ✅ AI-powered resume generation using Google Gemini API
@@ -13,7 +13,7 @@ SmartResume Generator is an AI-powered resume builder that creates customized re
 To run this project locally, follow these steps:
 
 🔹 1️⃣ Clone the Repository
-git clone https:/Abhaytiwari303/github.com//SmartResume-Generator.git  
+git clone https://github.com/Abhaytiwari303/SmartResume-Generator.git  
 cd SmartResume-Generator  
 
 🔹 2️⃣ Install Dependencies
